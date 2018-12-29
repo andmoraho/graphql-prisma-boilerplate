@@ -11,8 +11,8 @@
         "get-schema": "graphql get-schema -p prisma --dotenv config/dev.env"
     },
     "jest": {
-        "globalSetup": "./test/jest/globalSetup.js",
-        "globalTeardown": "./test/jest/globalTeardown.js"
+        "globalSetup": "./tests/jest/globalSetup.js",
+        "globalTeardown": "./tests/jest/globalTeardown.js"
     },
     "author": "andmoraho",
     "license": "ISC",

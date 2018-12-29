@@ -5,7 +5,7 @@
             "extensions": {
                 "prisma": "prisma/prisma.yml",
                 "endpoints": {
-                    "defaults": "http://192.168.99.100:4466"
+                    "defaults": "http://192.168.99.100:4466/"
                 }
             }
         }
